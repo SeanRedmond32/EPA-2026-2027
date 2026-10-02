@@ -1,0 +1,9 @@
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+The maximum number of processes NOT exceeded
+You passed in 1 to lab03_exercise3.sh
