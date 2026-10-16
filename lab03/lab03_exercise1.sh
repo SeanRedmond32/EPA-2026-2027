@@ -17,16 +17,25 @@ done
 # into this bash script. 
 # we use the notation $1, $2 etc to represent
 # the first, second etc parameter into this script
-if [ -z $1 ]; then
-	echo "You didn't pass any paraemters to $0"
-else
-	if [$1 > $ct]; then
-		echo "More"
-	echo "You passed in $1 to $0"
-fi
+
 
 # heres a brand new command: 
 # it calls ps -ef, then pipes it into word counter
 # then stores the result in ct
+if [[ $# -ne 1 || ! $1 =~ ^[0-9]+$ ]]; then
+	echo "Non numeric value entered, enter number" >&2
+	exit 1
+fi
+
 ct=$(ps -ef | wc -l)
 echo "There are $ct processes running on this machine"
+
+if [ -z $1 ]; then
+        echo "You didn't pass any paraemters to $0"
+else
+        if [ "$ct" -gt "$1" ]; then
+                echo "Maximum number of processes exceeded"
+        else
+                echo "Maximum number of processes NOT exceeded"
+        fi
+fi

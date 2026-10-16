@@ -7,3 +7,119 @@ Count: 5
 There are 108 processes running on this machine
 The maximum number of processes NOT exceeded
 You passed in 1 to lab03_exercise3.sh
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+Maximum number of processes exceeded
+Fri Oct 16 13:29:44 UTC 2026
+--------------
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+You didn't pass any paraemters to lab03_excercise2.sh
+Fri Oct 16 13:30:00 UTC 2026
+--------------
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+You didn't pass any paraemters to lab03_excercise2.sh
+Fri Oct 16 13:30:32 UTC 2026
+--------------
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+Maximum number of processes exceeded
+Fri Oct 16 13:30:37 UTC 2026
+--------------
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+Maximum number of processes NOT exceeded
+Fri Oct 16 13:30:41 UTC 2026
+--------------
+200
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+Maximum number of processes NOT exceeded
+Fri Oct 16 13:33:01 UTC 2026
+--------------
+2
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+Maximum number of processes exceeded
+Fri Oct 16 13:33:28 UTC 2026
+--------------
+
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 109 processes running on this machine
+You didn't pass any paraemters to lab03_exercise2.sh
+Fri Oct 16 13:37:03 UTC 2026
+--------------
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+Fri Oct 16 14:02:05 UTC 2026
+--------------

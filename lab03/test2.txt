@@ -1,0 +1,121 @@
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 109 processes running on this machine
+Maximum number of processes exceeded
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+The maximum number of processes NOT exceeded
+You passed in 1 to lab03_exercise3.sh
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 108 processes running on this machine
+Maximum number of processes exceeded
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+400
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 109 processes running on this machine
+Maximum number of processes NOT exceeded
+--------------------
+20
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 109 processes running on this machine
+Maximum number of processes exceeded
+--------------------
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+9
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+There are 111 processes running on this machine
+Maximum number of processes exceeded
+Fri Oct 16 13:57:37 UTC 2026
+--------------------
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+h
+Count: 1
+Count: 2
+Count: 3
+found the third item
+Count: 4
+Count: 5
+Non numeric value entered, enter number
+Fri Oct 16 14:01:02 UTC 2026
+--------------------

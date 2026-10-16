@@ -28,10 +28,9 @@ echo "There are $ct processes running on this machine"
 if [ -z $1 ]; then
         echo "You didn't pass any paraemters to $0"
 else
-        if [ $1 -lt $ct ]; then
-                echo "The maximum number of processes NOT exceeded"
-                echo "You passed in $1 to $0"
-        else
+        if [ "$ct" -gt "$1" ]; then
                 echo "Maximum number of processes exceeded"
+        else
+                echo "Maximum number of processes NOT exceeded"
         fi
 fi
